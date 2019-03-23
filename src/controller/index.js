@@ -26,7 +26,7 @@ exports.postHandle = (ctx, next) => {
     let oauthUrl = 'https://open.weixin.qq.com/connect/oauth2/authorize?appid=' +
         config.wx.appid + '&redirect_uri=' + url + '&response_type=code&scope=SCOPE&state=STATE#wechat_redirect';
 
-    
+    console.log(oauthUrl)
     
     MsgType = msg.MsgType[0]
 
