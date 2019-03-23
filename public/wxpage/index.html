@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<style>
+
+@keyframes breath {
+	0%, 100% {
+		opacity: 0;
+	}
+	17% {
+		opacity: .5;
+	}
+	34% {
+		opacity: 1;
+	}
+	51% {
+		opacity: .75;
+	}
+	68% {
+		opacity: .25;
+  }
+  85% {
+		opacity: 0;
+  }
+}
+.breath {
+  animation: breath 4s infinite;
+}
+</style>
+<body>
+    <div class="breath">
+        sdfsdddddddddd
+    </div>
+  
+</body>
+<script>
+  const auth_path_list = ['/index', '/airCleaner', '/otherproduct', '/humidifier'];
+  function dropUnaccessible(data) {
+      return data.filter(nav => {
+            if (nav.navs) {
+                nav.navs = dropUnaccessible(nav.navs);
+                return nav.navs.length > 0;
+            } else {
+              return auth_path_list.indexOf(nav.path) >= 0;
+            }
+        })
+    }
+    const navs = [
+    {title: '首页', path: '/index'},
+    {title: '手机设备管理', navs: [
+        {title: '手机产品库', path: '/phoneproduct'},
+        {title: '工厂数据管理', path: '/factorydata'},
+        {title: '工程机数据管理', path: '/machine'},
+        {title: '新旧IMEI对应关系管理', path: '/correspond'},
+        // {title: '线下销售数据上报', path: '/saleDataReport'}
+    ]},
+    {
+        title:'其他设备管理', navs:[
+            {title: '设备产品库', path: '/otherproduct'},
+            {title: '设备工厂数据管理', navs: [
+                {title: '净化器工厂数据管理', path: '/airCleaner'},
+                {title: '加湿器工厂数据管理', path: '/humidifier'},
+                {title: '智能音箱工厂数据管理', path: '/smartSoundBox'},
+            ]},
+            // {title: '消毒剂工厂数据管理', path: '/disinfector'},
+            {title: '滤芯RFID数据管理', path: '/rfidlist'}
+        ]
+    }
+]
+console.log(dropUnaccessible(navs));
+</script>
+</html>
