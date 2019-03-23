@@ -32,7 +32,7 @@ exports.postHandle = (ctx, next) => {
 
     switch (MsgType) {
         case 'text':
-            result = wx.message.text(msg, msg.Content+ '<a src="' + oauthUrl +'">点击授权</a>')
+            result = wx.message.text(msg, oauthUrl)
             break;
         default: 
             result = 'success'
