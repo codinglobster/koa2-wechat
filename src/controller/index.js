@@ -22,7 +22,7 @@ exports.postHandle = (ctx, next) => {
         ctx.body = 'error request.'
         return;
     }
-    let url = 'http%3a%2f%2fwww.codinglobster.cn%2fwxpage%2findex.html';
+    let url = 'http%3a%2f%2fwww.codinglobster.cn%2faccount%2findex.html';
     let oauthUrl = 'https://open.weixin.qq.com/connect/oauth2/authorize?appid=' +
         config.wx.appid + '&redirect_uri=' + url + '&response_type=code&scope=snsapi_base&state=STATE#wechat_redirect';
 
