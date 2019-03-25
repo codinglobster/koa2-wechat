@@ -73,5 +73,9 @@
     }
 ]
 console.log(dropUnaccessible(navs));
+
+const urlBlock = document.createElement('div');
+urlBlock.innerHTML = window.location.href;
+document.querySelector('body').appendChild(urlBlock);
 </script>
 </html>
