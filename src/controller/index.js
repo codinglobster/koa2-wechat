@@ -24,7 +24,7 @@ exports.postHandle = (ctx, next) => {
     }
     let url = 'www.codinglobster.cn%2fwxpage%2findex.html';
     let oauthUrl = 'https://open.weixin.qq.com/connect/oauth2/authorize?appid=' +
-        config.wx.appid + '&redirect_uri=' + url + '&response_type=code&scope=SCOPE&state=STATE#wechat_redirect';
+        config.wx.appid + '&redirect_uri=' + url + '&response_type=code&scope=snsapi_login&state=STATE#wechat_redirect';
 
     console.log(oauthUrl)
     
