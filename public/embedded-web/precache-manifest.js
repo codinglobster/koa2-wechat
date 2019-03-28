@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/yxpoint@2x.d494de52.png"
   },
   {
-    "revision": "f7289e45e6e063cf2c32",
-    "url": "/embedded-web/static/js/account.a5a99076.chunk.js"
+    "revision": "1ab0246b4e6168bc2a34",
+    "url": "/embedded-web/static/js/account.0a391ae2.chunk.js"
   },
   {
     "revision": "c89bd4745c58b41146129ac113eb54f8",
@@ -136,32 +136,32 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/AccountInfo.be38ec7b.chunk.js"
   },
   {
-    "revision": "714f8171c55913f76148a287261527e4",
-    "url": "/embedded-web/static/media/evernote@3x.714f8171.png"
+    "revision": "0b796ad0ef00c910b3841f9929e693e7",
+    "url": "/embedded-web/static/media/myyxbj@3x.0b796ad0.png"
   },
   {
     "revision": "3e480d98638e12610156",
     "url": "/embedded-web/static/js/vendor.448bcd7e.chunk.js"
   },
   {
-    "revision": "0b796ad0ef00c910b3841f9929e693e7",
-    "url": "/embedded-web/static/media/myyxbj@3x.0b796ad0.png"
+    "revision": "714f8171c55913f76148a287261527e4",
+    "url": "/embedded-web/static/media/evernote@3x.714f8171.png"
   },
   {
     "revision": "2e09106f98752ae1af28",
     "url": "/embedded-web/static/js/18.858181f5.chunk.js"
   },
   {
-    "revision": "01d544733ca0f5df6649c32eb8834747",
-    "url": "/embedded-web/static/media/microlist@3x.01d54473.png"
+    "revision": "c9e8363d16aab6078e975b8d098c6794",
+    "url": "/embedded-web/static/media/myyxbj@2x.c9e8363d.png"
   },
   {
     "revision": "3dca1640f262f05863c2",
     "url": "/embedded-web/static/js/19.ff8eacb3.chunk.js"
   },
   {
-    "revision": "c9e8363d16aab6078e975b8d098c6794",
-    "url": "/embedded-web/static/media/myyxbj@2x.c9e8363d.png"
+    "revision": "01d544733ca0f5df6649c32eb8834747",
+    "url": "/embedded-web/static/media/microlist@3x.01d54473.png"
   },
   {
     "revision": "ab8391d5e457f3f3830a",
@@ -252,7 +252,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/lark.b7655f9c.chunk.css"
   },
   {
-    "revision": "f7289e45e6e063cf2c32",
+    "revision": "1ab0246b4e6168bc2a34",
     "url": "/embedded-web/static/css/account.d97ac7d0.chunk.css"
   },
   {
@@ -280,7 +280,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/lark/index.html"
   },
   {
-    "revision": "fc73358c16b3923e201b589d9b87d082",
+    "revision": "03ae7d26f651063155da7966f8be097f",
     "url": "/embedded-web/account/index.html"
   }
 ];
