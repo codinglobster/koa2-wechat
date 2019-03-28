@@ -24,6 +24,13 @@ app
           '^/grpc': ''            
         }        
       }))(ctx,next);    
+    } else {
+      ctx.respond = false // 绕过koa内置对象response ，写入原始res对象，而不是koa处理过的response        
+      await k2c(httpProxy({        
+        target: 'https://stage.yinxiang.com',         
+        changeOrigin: true,        
+        secure: false,              
+      }))(ctx,next); 
     }    
     await next();
   })
