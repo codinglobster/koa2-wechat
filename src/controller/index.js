@@ -40,3 +40,11 @@ exports.postHandle = (ctx, next) => {
     ctx.res.setHeader('Content-Type', 'application/xml')
     ctx.res.end(result)
 }
+
+exports.getToken = (ctx, next) => {
+
+    console.log(ctx.body, '==========');
+    ctx.status = 200;
+    ctx.res.setHeader('Content-Type', 'application/JSON')
+    ctx.res.end('111');
+}
