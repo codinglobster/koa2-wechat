@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/yxpoint@2x.d494de52.png"
   },
   {
-    "revision": "2ef79c05537c7dcf70ef",
-    "url": "/embedded-web/static/js/account.4c626d17.chunk.js"
+    "revision": "96374bf4f2a0da0987fd",
+    "url": "/embedded-web/static/js/account.9b665451.chunk.js"
   },
   {
     "revision": "c89bd4745c58b41146129ac113eb54f8",
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/vip@2x.a20313c6.png"
   },
   {
-    "revision": "464a00f5189bba9e1c55",
-    "url": "/embedded-web/static/js/SmsHelper.4b71f884.chunk.js"
+    "revision": "8b56dbf5cbc4267cfca7",
+    "url": "/embedded-web/static/js/SmsHelper.4da7dc07.chunk.js"
   },
   {
     "revision": "35d4d8a4ce0259c437b796b592d3b63f",
@@ -136,32 +136,32 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/AccountInfo.6566de59.chunk.js"
   },
   {
-    "revision": "0b796ad0ef00c910b3841f9929e693e7",
-    "url": "/embedded-web/static/media/myyxbj@3x.0b796ad0.png"
+    "revision": "714f8171c55913f76148a287261527e4",
+    "url": "/embedded-web/static/media/evernote@3x.714f8171.png"
   },
   {
     "revision": "941e853b590f4269ebf9",
     "url": "/embedded-web/static/js/vendor.99d2f453.chunk.js"
   },
   {
-    "revision": "714f8171c55913f76148a287261527e4",
-    "url": "/embedded-web/static/media/evernote@3x.714f8171.png"
+    "revision": "0b796ad0ef00c910b3841f9929e693e7",
+    "url": "/embedded-web/static/media/myyxbj@3x.0b796ad0.png"
   },
   {
     "revision": "53a7381aee91bd119ee5",
     "url": "/embedded-web/static/js/18.8d08fbc7.chunk.js"
   },
   {
-    "revision": "c9e8363d16aab6078e975b8d098c6794",
-    "url": "/embedded-web/static/media/myyxbj@2x.c9e8363d.png"
+    "revision": "01d544733ca0f5df6649c32eb8834747",
+    "url": "/embedded-web/static/media/microlist@3x.01d54473.png"
   },
   {
     "revision": "5d0aa41763e0ec3bab53",
     "url": "/embedded-web/static/js/19.dcd7e150.chunk.js"
   },
   {
-    "revision": "01d544733ca0f5df6649c32eb8834747",
-    "url": "/embedded-web/static/media/microlist@3x.01d54473.png"
+    "revision": "c9e8363d16aab6078e975b8d098c6794",
+    "url": "/embedded-web/static/media/myyxbj@2x.c9e8363d.png"
   },
   {
     "revision": "dd95999e72d93992bb15",
@@ -176,8 +176,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/21.fb8be6ce.chunk.js"
   },
   {
-    "revision": "c7229442e301b3e1a10d",
-    "url": "/embedded-web/static/js/runtime~account.3e5bfa30.js"
+    "revision": "fc6142bfdd94560a9c03",
+    "url": "/embedded-web/static/js/runtime~account.c9448653.js"
   },
   {
     "revision": "844b7c435312a00b605f",
@@ -228,7 +228,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/NewFeature.aa37d303.chunk.css"
   },
   {
-    "revision": "464a00f5189bba9e1c55",
+    "revision": "8b56dbf5cbc4267cfca7",
     "url": "/embedded-web/static/css/SmsHelper.443493a4.chunk.css"
   },
   {
@@ -252,7 +252,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/lark.fda95c3e.chunk.css"
   },
   {
-    "revision": "2ef79c05537c7dcf70ef",
+    "revision": "96374bf4f2a0da0987fd",
     "url": "/embedded-web/static/css/account.ff8217a5.chunk.css"
   },
   {
@@ -280,7 +280,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/lark/index.html"
   },
   {
-    "revision": "20e03445bb6bf1adeb1ac3cb3c9bec83",
+    "revision": "1f19190677f93ed788728d40bf7e5c45",
     "url": "/embedded-web/account/index.html"
   }
 ];
