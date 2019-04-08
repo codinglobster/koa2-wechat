@@ -76,8 +76,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/freeonly.3d9b9b8b.png"
   },
   {
-    "revision": "89facc238600d18fcce9",
-    "url": "/embedded-web/static/js/BindExisted.8980647c.chunk.js"
+    "revision": "f64f2a3fe73232b29ce4",
+    "url": "/embedded-web/static/js/BindExisted.77814496.chunk.js"
   },
   {
     "revision": "d769abb2461b653b01c853c3630dec30",
@@ -152,8 +152,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/18.b2359e42.chunk.js"
   },
   {
-    "revision": "301e5947d67ec03764de71fe70ef9e7d",
-    "url": "/embedded-web/static/media/evernote@2x.301e5947.png"
+    "revision": "c9e8363d16aab6078e975b8d098c6794",
+    "url": "/embedded-web/static/media/myyxbj@2x.c9e8363d.png"
   },
   {
     "revision": "719a03561f6d5bbfe9c5",
@@ -168,16 +168,16 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/20.1a36bab9.chunk.js"
   },
   {
-    "revision": "c9e8363d16aab6078e975b8d098c6794",
-    "url": "/embedded-web/static/media/myyxbj@2x.c9e8363d.png"
+    "revision": "301e5947d67ec03764de71fe70ef9e7d",
+    "url": "/embedded-web/static/media/evernote@2x.301e5947.png"
   },
   {
     "revision": "67e0746b011ea4c5836b",
     "url": "/embedded-web/static/js/21.4c99ea5b.chunk.js"
   },
   {
-    "revision": "903c57b734306a696c62",
-    "url": "/embedded-web/static/js/runtime~account.4ece9c01.js"
+    "revision": "8d1cb232615d7c09e1dc",
+    "url": "/embedded-web/static/js/runtime~account.ef0aded5.js"
   },
   {
     "revision": "bc0a538707257d396202",
@@ -188,7 +188,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/runtime~redeem.170bdf2b.js"
   },
   {
-    "revision": "89facc238600d18fcce9",
+    "revision": "f64f2a3fe73232b29ce4",
     "url": "/embedded-web/static/css/BindExisted.7198c8a8.chunk.css"
   },
   {
@@ -280,7 +280,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/lark/index.html"
   },
   {
-    "revision": "68ea7c2939f7e1dcaff3c969227381f2",
+    "revision": "a83f2e2eefe98878d547bf73dddd0c57",
     "url": "/embedded-web/account/index.html"
   }
 ];
