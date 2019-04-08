@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "a50fae838fbdb69e5c38",
-    "url": "/embedded-web/static/js/ServiceList.acbb50fb.chunk.js"
+    "revision": "6f6dff17262bc7d3285f",
+    "url": "/embedded-web/static/js/ServiceList.6f8c5a72.chunk.js"
   },
   {
     "revision": "d3c3558a48c26b432554",
@@ -44,40 +44,40 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/yxpoint@2x.d494de52.png"
   },
   {
-    "revision": "12361d8ec232e4bb35cf",
-    "url": "/embedded-web/static/js/account.ba7ecb35.chunk.js"
+    "revision": "f1da14f734bf1c69fb4a",
+    "url": "/embedded-web/static/js/account.c645b09b.chunk.js"
   },
   {
     "revision": "c89bd4745c58b41146129ac113eb54f8",
     "url": "/embedded-web/static/media/yxpoint.c89bd474.png"
   },
   {
-    "revision": "baf40f72fa76cf3192d4",
-    "url": "/embedded-web/static/js/lark.c9cccce3.chunk.js"
+    "revision": "6594df9b99316818306c",
+    "url": "/embedded-web/static/js/lark.a66a042c.chunk.js"
   },
   {
     "revision": "24481e619347ce2b9276f0f841ac7657",
     "url": "/embedded-web/static/media/freeonly@3x.24481e61.png"
   },
   {
-    "revision": "1c5bebcacdff113f9c43",
-    "url": "/embedded-web/static/js/redeem.30695db4.chunk.js"
+    "revision": "781788cb695b171339ec",
+    "url": "/embedded-web/static/js/redeem.82f81754.chunk.js"
   },
   {
     "revision": "6eedde271aff8754c20e7e74a9403b15",
     "url": "/embedded-web/static/media/freeonly@2x.6eedde27.png"
   },
   {
-    "revision": "d5aa4932982b19c88b59",
-    "url": "/embedded-web/static/js/BindCreate.04ecc2df.chunk.js"
+    "revision": "6e5d4ebeb7327d550d80",
+    "url": "/embedded-web/static/js/BindCreate.256ba7e4.chunk.js"
   },
   {
     "revision": "3d9b9b8b08eebbe77e1229322a40f0a3",
     "url": "/embedded-web/static/media/freeonly.3d9b9b8b.png"
   },
   {
-    "revision": "abaa6358825d984e7903",
-    "url": "/embedded-web/static/js/BindExisted.fd8c21f3.chunk.js"
+    "revision": "44398f53c429894046bc",
+    "url": "/embedded-web/static/js/BindExisted.1a42d8d0.chunk.js"
   },
   {
     "revision": "d769abb2461b653b01c853c3630dec30",
@@ -176,8 +176,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/21.21c956ea.chunk.js"
   },
   {
-    "revision": "7d5653159764b3f9d40b",
-    "url": "/embedded-web/static/js/runtime~account.4049ab81.js"
+    "revision": "e957c7e5cbfcb3a13ced",
+    "url": "/embedded-web/static/js/runtime~account.9c5564d6.js"
   },
   {
     "revision": "6fe67c47b99f033fee7f",
@@ -188,7 +188,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/runtime~redeem.fb3680ee.js"
   },
   {
-    "revision": "abaa6358825d984e7903",
+    "revision": "44398f53c429894046bc",
     "url": "/embedded-web/static/css/BindExisted.7198c8a8.chunk.css"
   },
   {
@@ -204,7 +204,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/3.77dcfe7d.chunk.css"
   },
   {
-    "revision": "a50fae838fbdb69e5c38",
+    "revision": "6f6dff17262bc7d3285f",
     "url": "/embedded-web/static/css/ServiceList.65ce9118.chunk.css"
   },
   {
@@ -240,19 +240,19 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/4.642548c4.chunk.css"
   },
   {
-    "revision": "d5aa4932982b19c88b59",
+    "revision": "6e5d4ebeb7327d550d80",
     "url": "/embedded-web/static/css/BindCreate.0c17168e.chunk.css"
   },
   {
-    "revision": "1c5bebcacdff113f9c43",
+    "revision": "781788cb695b171339ec",
     "url": "/embedded-web/static/css/redeem.618e8c7b.chunk.css"
   },
   {
-    "revision": "baf40f72fa76cf3192d4",
+    "revision": "6594df9b99316818306c",
     "url": "/embedded-web/static/css/lark.7508c1d6.chunk.css"
   },
   {
-    "revision": "12361d8ec232e4bb35cf",
+    "revision": "f1da14f734bf1c69fb4a",
     "url": "/embedded-web/static/css/account.030a4ef5.chunk.css"
   },
   {
@@ -272,15 +272,15 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/18.8b25c0d9.chunk.css"
   },
   {
-    "revision": "fde1597455ab158d08d1a41405fc7cd8",
+    "revision": "df6140491aad590b943979f321226b2a",
     "url": "/embedded-web/redeem/index.html"
   },
   {
-    "revision": "bdfaca1100335fc89159294b4e598599",
+    "revision": "2b678656a6ef1e834849130ee6b892eb",
     "url": "/embedded-web/lark/index.html"
   },
   {
-    "revision": "8d53a925180ceecabaebddf65ad6a293",
+    "revision": "23877e964884dda1349655c3a83ea092",
     "url": "/embedded-web/account/index.html"
   }
 ];
