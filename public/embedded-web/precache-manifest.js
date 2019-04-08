@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/yxpoint@3x.d03ac677.png"
   },
   {
-    "revision": "1a013b9dff2596e440cd",
-    "url": "/embedded-web/static/js/4.343fc186.chunk.js"
+    "revision": "2d39a2be4fdeb80a8ef4",
+    "url": "/embedded-web/static/js/4.8025a063.chunk.js"
   },
   {
     "revision": "d494de526351464a784f546017757ab1",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/freeonly@2x.6eedde27.png"
   },
   {
-    "revision": "11f2e40921fe9679d376",
-    "url": "/embedded-web/static/js/BindCreate.9074f9eb.chunk.js"
+    "revision": "98db8f9ab90b79c28928",
+    "url": "/embedded-web/static/js/BindCreate.f05be1e4.chunk.js"
   },
   {
     "revision": "3d9b9b8b08eebbe77e1229322a40f0a3",
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/vip@2x.a20313c6.png"
   },
   {
-    "revision": "272d1fa2b2fbc89e43f2",
-    "url": "/embedded-web/static/js/SmsHelper.e605ff90.chunk.js"
+    "revision": "c8a4c913372005f468ba",
+    "url": "/embedded-web/static/js/SmsHelper.430b7e85.chunk.js"
   },
   {
     "revision": "35d4d8a4ce0259c437b796b592d3b63f",
@@ -136,16 +136,16 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/AccountInfo.d39d036e.chunk.js"
   },
   {
-    "revision": "0b796ad0ef00c910b3841f9929e693e7",
-    "url": "/embedded-web/static/media/myyxbj@3x.0b796ad0.png"
+    "revision": "714f8171c55913f76148a287261527e4",
+    "url": "/embedded-web/static/media/evernote@3x.714f8171.png"
   },
   {
     "revision": "87f7e0813d17241d5b9c",
     "url": "/embedded-web/static/js/vendor.581239ec.chunk.js"
   },
   {
-    "revision": "714f8171c55913f76148a287261527e4",
-    "url": "/embedded-web/static/media/evernote@3x.714f8171.png"
+    "revision": "0b796ad0ef00c910b3841f9929e693e7",
+    "url": "/embedded-web/static/media/myyxbj@3x.0b796ad0.png"
   },
   {
     "revision": "6e6c6493dc8847faf461",
@@ -176,8 +176,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/21.4c99ea5b.chunk.js"
   },
   {
-    "revision": "ac035fd90e527ebf458b",
-    "url": "/embedded-web/static/js/runtime~account.0fbef035.js"
+    "revision": "62050d261f6f7bef21c5",
+    "url": "/embedded-web/static/js/runtime~account.9b019807.js"
   },
   {
     "revision": "bc0a538707257d396202",
@@ -228,7 +228,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/NewFeature.0b3f563a.chunk.css"
   },
   {
-    "revision": "272d1fa2b2fbc89e43f2",
+    "revision": "c8a4c913372005f468ba",
     "url": "/embedded-web/static/css/SmsHelper.561b2d42.chunk.css"
   },
   {
@@ -236,11 +236,11 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/TwoFactorVerification.6f7a64c9.chunk.css"
   },
   {
-    "revision": "1a013b9dff2596e440cd",
+    "revision": "2d39a2be4fdeb80a8ef4",
     "url": "/embedded-web/static/css/4.642548c4.chunk.css"
   },
   {
-    "revision": "11f2e40921fe9679d376",
+    "revision": "98db8f9ab90b79c28928",
     "url": "/embedded-web/static/css/BindCreate.1a745557.chunk.css"
   },
   {
@@ -280,7 +280,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/lark/index.html"
   },
   {
-    "revision": "3b3f5fe95afde37f0e0bfd7f83074a6c",
+    "revision": "523dac6342f8b53a070d9564016279e2",
     "url": "/embedded-web/account/index.html"
   }
 ];
