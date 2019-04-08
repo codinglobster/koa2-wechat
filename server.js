@@ -17,7 +17,7 @@ app
     if (ctx.url.startsWith('/grpc')) { //匹配有api字段的请求url       
       ctx.respond = false // 绕过koa内置对象response ，写入原始res对象，而不是koa处理过的response        
       await k2c(httpProxy({        
-        target: 'http://f9265be8.ngrok.io',         
+        target: 'http://f9265be8.ngrok.io',
         changeOrigin: true,        
         secure: false,        
         pathRewrite: {        
@@ -27,7 +27,7 @@ app
     } else {
       ctx.respond = false // 绕过koa内置对象response ，写入原始res对象，而不是koa处理过的response        
       await k2c(httpProxy({        
-        target: 'https://stage-3.yinxiang.com',         
+        target: 'https://stage-3.yinxiang.com',   
         changeOrigin: true,        
         secure: false,              
       }))(ctx,next); 

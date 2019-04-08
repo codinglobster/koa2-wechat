@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "6f6dff17262bc7d3285f",
-    "url": "/embedded-web/static/js/ServiceList.6f8c5a72.chunk.js"
+    "revision": "971f60ff4b1bcc013970",
+    "url": "/embedded-web/static/js/ServiceList.1ee97496.chunk.js"
   },
   {
-    "revision": "d3c3558a48c26b432554",
+    "revision": "7760d68f010f28c1d833",
     "url": "/embedded-web/static/css/vendor.d3808a87.chunk.css"
   },
   {
@@ -12,275 +12,275 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/activesuccess@3x.ac3fa113.png"
   },
   {
-    "revision": "0aefcad4115a9e514c3a",
-    "url": "/embedded-web/static/js/common.090081bb.chunk.js"
+    "revision": "97ef38f5801f15cf9c5c",
+    "url": "/embedded-web/static/js/common.7aa35ac4.chunk.js"
   },
   {
     "revision": "ce67cd694934e85a33b1807d11e2c198",
     "url": "/embedded-web/static/media/activesuccess@2x.ce67cd69.png"
   },
   {
-    "revision": "485d163a0abd973edcad",
-    "url": "/embedded-web/static/js/2.8f1533da.chunk.js"
+    "revision": "b2b80bde2c10fbba64d1",
+    "url": "/embedded-web/static/js/2.87948e73.chunk.js"
   },
   {
     "revision": "234d02814bb4838ee39ae6e04e495bdf",
     "url": "/embedded-web/static/media/activesuccess.234d0281.png"
   },
   {
-    "revision": "51cc09feb8d206ac849c",
-    "url": "/embedded-web/static/js/3.c8f806b2.chunk.js"
+    "revision": "de2b9f285bee507fc834",
+    "url": "/embedded-web/static/js/3.6dc1d5d1.chunk.js"
   },
   {
     "revision": "d03ac677e3d4b684b847d58cf2deb612",
     "url": "/embedded-web/static/media/yxpoint@3x.d03ac677.png"
   },
   {
-    "revision": "fb06ce9d560ad268f353",
-    "url": "/embedded-web/static/js/4.92a502b4.chunk.js"
+    "revision": "25373b83208ad0b7aa37",
+    "url": "/embedded-web/static/js/4.6c1d5350.chunk.js"
   },
   {
     "revision": "d494de526351464a784f546017757ab1",
     "url": "/embedded-web/static/media/yxpoint@2x.d494de52.png"
   },
   {
-    "revision": "f1da14f734bf1c69fb4a",
-    "url": "/embedded-web/static/js/account.c645b09b.chunk.js"
+    "revision": "4c5a923181f68a59fb9f",
+    "url": "/embedded-web/static/js/account.a298aa80.chunk.js"
   },
   {
     "revision": "c89bd4745c58b41146129ac113eb54f8",
     "url": "/embedded-web/static/media/yxpoint.c89bd474.png"
   },
   {
-    "revision": "6594df9b99316818306c",
-    "url": "/embedded-web/static/js/lark.a66a042c.chunk.js"
+    "revision": "4cf8dbeefeed6192a764",
+    "url": "/embedded-web/static/js/lark.009d3db7.chunk.js"
   },
   {
     "revision": "24481e619347ce2b9276f0f841ac7657",
     "url": "/embedded-web/static/media/freeonly@3x.24481e61.png"
   },
   {
-    "revision": "781788cb695b171339ec",
-    "url": "/embedded-web/static/js/redeem.82f81754.chunk.js"
+    "revision": "2f0c147b402778c86642",
+    "url": "/embedded-web/static/js/redeem.d51e4218.chunk.js"
   },
   {
     "revision": "6eedde271aff8754c20e7e74a9403b15",
     "url": "/embedded-web/static/media/freeonly@2x.6eedde27.png"
   },
   {
-    "revision": "6e5d4ebeb7327d550d80",
-    "url": "/embedded-web/static/js/BindCreate.256ba7e4.chunk.js"
+    "revision": "f381aa00091eedb0ddef",
+    "url": "/embedded-web/static/js/BindCreate.f09e6611.chunk.js"
   },
   {
     "revision": "3d9b9b8b08eebbe77e1229322a40f0a3",
     "url": "/embedded-web/static/media/freeonly.3d9b9b8b.png"
   },
   {
-    "revision": "44398f53c429894046bc",
-    "url": "/embedded-web/static/js/BindExisted.1a42d8d0.chunk.js"
+    "revision": "0c8d62e94d4323992eed",
+    "url": "/embedded-web/static/js/BindExisted.5818a138.chunk.js"
   },
   {
     "revision": "d769abb2461b653b01c853c3630dec30",
     "url": "/embedded-web/static/media/vip@3x.d769abb2.png"
   },
   {
-    "revision": "ead28f384af15868d8a4",
-    "url": "/embedded-web/static/js/TwoFactorVerification.d6498a52.chunk.js"
+    "revision": "5cd8bf032fa4546464d1",
+    "url": "/embedded-web/static/js/TwoFactorVerification.ed54d768.chunk.js"
   },
   {
     "revision": "a20313c6d4458b2c7d565ee283d6d8af",
     "url": "/embedded-web/static/media/vip@2x.a20313c6.png"
   },
   {
-    "revision": "40d64d8822919d6a8ad8",
-    "url": "/embedded-web/static/js/SmsHelper.e69d4ed8.chunk.js"
+    "revision": "d6650016477b16f1abac",
+    "url": "/embedded-web/static/js/SmsHelper.b4348e4e.chunk.js"
   },
   {
     "revision": "35d4d8a4ce0259c437b796b592d3b63f",
     "url": "/embedded-web/static/media/vip.35d4d8a4.png"
   },
   {
-    "revision": "e8c5db84451a8976bd2f",
-    "url": "/embedded-web/static/js/NewFeature.a6b1abe2.chunk.js"
+    "revision": "65484c023e50ed234587",
+    "url": "/embedded-web/static/js/NewFeature.b5ba037b.chunk.js"
   },
   {
     "revision": "16b2bf13a531139698e31dd7ff9f0cde",
     "url": "/embedded-web/static/media/avator.16b2bf13.png"
   },
   {
-    "revision": "aa9c905b5502c99524b7",
-    "url": "/embedded-web/static/js/TwoFactorHelper.0b9b72bc.chunk.js"
+    "revision": "a6cbdf33559558eacd33",
+    "url": "/embedded-web/static/js/TwoFactorHelper.f5755837.chunk.js"
   },
   {
     "revision": "bfcaec2375c3fc9d96fa80a88c0ca2ad",
     "url": "/embedded-web/static/media/nav-background.bfcaec23.png"
   },
   {
-    "revision": "8ca871cd3a3ae863fa0e",
-    "url": "/embedded-web/static/js/ForgetPassword.fe23a778.chunk.js"
+    "revision": "abe61e54862952eb9d06",
+    "url": "/embedded-web/static/js/ForgetPassword.e71ef17f.chunk.js"
   },
   {
     "revision": "7ac2131b755a33b5d3b2546bf986c19c",
     "url": "/embedded-web/static/media/lark_background.7ac2131b.png"
   },
   {
-    "revision": "45e64e107ca85c38516b",
-    "url": "/embedded-web/static/js/UpdateSuccess.5477c070.chunk.js"
+    "revision": "4a5433a54a99f198bd92",
+    "url": "/embedded-web/static/js/UpdateSuccess.7cd86838.chunk.js"
   },
   {
     "revision": "b08626338058183bce5e3000f8d47750",
     "url": "/embedded-web/static/media/bind-background@2x.b0862633.png"
   },
   {
-    "revision": "a548697010c08d11a56b",
-    "url": "/embedded-web/static/js/AccountInfo.b43a0301.chunk.js"
+    "revision": "ada65a8b91a497e4581f",
+    "url": "/embedded-web/static/js/AccountInfo.c7a35f33.chunk.js"
   },
   {
     "revision": "0b796ad0ef00c910b3841f9929e693e7",
     "url": "/embedded-web/static/media/myyxbj@3x.0b796ad0.png"
   },
   {
-    "revision": "d3c3558a48c26b432554",
-    "url": "/embedded-web/static/js/vendor.d8faeb22.chunk.js"
+    "revision": "7760d68f010f28c1d833",
+    "url": "/embedded-web/static/js/vendor.6fdc1c13.chunk.js"
   },
   {
     "revision": "714f8171c55913f76148a287261527e4",
     "url": "/embedded-web/static/media/evernote@3x.714f8171.png"
   },
   {
-    "revision": "aea0a5405a5adbf5078b",
-    "url": "/embedded-web/static/js/18.be4acbff.chunk.js"
+    "revision": "12465d207df24afee264",
+    "url": "/embedded-web/static/js/18.a355483b.chunk.js"
   },
   {
     "revision": "01d544733ca0f5df6649c32eb8834747",
     "url": "/embedded-web/static/media/microlist@3x.01d54473.png"
   },
   {
-    "revision": "669bb15b56a464a4b18b",
-    "url": "/embedded-web/static/js/19.a4c4bd0e.chunk.js"
+    "revision": "b51c4d6122ba255e40a6",
+    "url": "/embedded-web/static/js/19.4d92be80.chunk.js"
   },
   {
     "revision": "c9e8363d16aab6078e975b8d098c6794",
     "url": "/embedded-web/static/media/myyxbj@2x.c9e8363d.png"
   },
   {
-    "revision": "80d26d69ca8bbcd7c691",
-    "url": "/embedded-web/static/js/20.62eac391.chunk.js"
+    "revision": "564007a3b9be2b1ae9c2",
+    "url": "/embedded-web/static/js/20.e2aa7bc3.chunk.js"
   },
   {
     "revision": "301e5947d67ec03764de71fe70ef9e7d",
     "url": "/embedded-web/static/media/evernote@2x.301e5947.png"
   },
   {
-    "revision": "fd02f6990b1250384d1f",
-    "url": "/embedded-web/static/js/21.21c956ea.chunk.js"
+    "revision": "f6598740c755f892404e",
+    "url": "/embedded-web/static/js/21.5d8ad52b.chunk.js"
   },
   {
-    "revision": "e957c7e5cbfcb3a13ced",
-    "url": "/embedded-web/static/js/runtime~account.9c5564d6.js"
+    "revision": "a185829d37bffb118fbf",
+    "url": "/embedded-web/static/js/runtime~account.7965b4b0.js"
   },
   {
-    "revision": "6fe67c47b99f033fee7f",
-    "url": "/embedded-web/static/js/runtime~lark.7202f089.js"
+    "revision": "0ff22ab925eb4760f011",
+    "url": "/embedded-web/static/js/runtime~lark.cd20f943.js"
   },
   {
-    "revision": "d10fa4468fcf24f3b091",
-    "url": "/embedded-web/static/js/runtime~redeem.fb3680ee.js"
+    "revision": "889ebfc80f34df05e682",
+    "url": "/embedded-web/static/js/runtime~redeem.2a37917d.js"
   },
   {
-    "revision": "44398f53c429894046bc",
+    "revision": "0c8d62e94d4323992eed",
     "url": "/embedded-web/static/css/BindExisted.7198c8a8.chunk.css"
   },
   {
-    "revision": "fd02f6990b1250384d1f",
+    "revision": "f6598740c755f892404e",
     "url": "/embedded-web/static/css/21.7f9000c2.chunk.css"
   },
   {
-    "revision": "0aefcad4115a9e514c3a",
+    "revision": "97ef38f5801f15cf9c5c",
     "url": "/embedded-web/static/css/common.b834f648.chunk.css"
   },
   {
-    "revision": "51cc09feb8d206ac849c",
+    "revision": "de2b9f285bee507fc834",
     "url": "/embedded-web/static/css/3.77dcfe7d.chunk.css"
   },
   {
-    "revision": "6f6dff17262bc7d3285f",
+    "revision": "971f60ff4b1bcc013970",
     "url": "/embedded-web/static/css/ServiceList.65ce9118.chunk.css"
   },
   {
-    "revision": "a548697010c08d11a56b",
+    "revision": "ada65a8b91a497e4581f",
     "url": "/embedded-web/static/css/AccountInfo.64741ea2.chunk.css"
   },
   {
-    "revision": "45e64e107ca85c38516b",
+    "revision": "4a5433a54a99f198bd92",
     "url": "/embedded-web/static/css/UpdateSuccess.3e186819.chunk.css"
   },
   {
-    "revision": "8ca871cd3a3ae863fa0e",
+    "revision": "abe61e54862952eb9d06",
     "url": "/embedded-web/static/css/ForgetPassword.d90cb0ad.chunk.css"
   },
   {
-    "revision": "aa9c905b5502c99524b7",
+    "revision": "a6cbdf33559558eacd33",
     "url": "/embedded-web/static/css/TwoFactorHelper.9acf8e36.chunk.css"
   },
   {
-    "revision": "e8c5db84451a8976bd2f",
+    "revision": "65484c023e50ed234587",
     "url": "/embedded-web/static/css/NewFeature.0b3f563a.chunk.css"
   },
   {
-    "revision": "40d64d8822919d6a8ad8",
+    "revision": "d6650016477b16f1abac",
     "url": "/embedded-web/static/css/SmsHelper.bc7a90b3.chunk.css"
   },
   {
-    "revision": "ead28f384af15868d8a4",
+    "revision": "5cd8bf032fa4546464d1",
     "url": "/embedded-web/static/css/TwoFactorVerification.6f7a64c9.chunk.css"
   },
   {
-    "revision": "fb06ce9d560ad268f353",
+    "revision": "25373b83208ad0b7aa37",
     "url": "/embedded-web/static/css/4.642548c4.chunk.css"
   },
   {
-    "revision": "6e5d4ebeb7327d550d80",
+    "revision": "f381aa00091eedb0ddef",
     "url": "/embedded-web/static/css/BindCreate.0c17168e.chunk.css"
   },
   {
-    "revision": "781788cb695b171339ec",
+    "revision": "2f0c147b402778c86642",
     "url": "/embedded-web/static/css/redeem.618e8c7b.chunk.css"
   },
   {
-    "revision": "6594df9b99316818306c",
+    "revision": "4cf8dbeefeed6192a764",
     "url": "/embedded-web/static/css/lark.7508c1d6.chunk.css"
   },
   {
-    "revision": "f1da14f734bf1c69fb4a",
+    "revision": "4c5a923181f68a59fb9f",
     "url": "/embedded-web/static/css/account.030a4ef5.chunk.css"
   },
   {
-    "revision": "80d26d69ca8bbcd7c691",
+    "revision": "564007a3b9be2b1ae9c2",
     "url": "/embedded-web/static/css/20.4646eed7.chunk.css"
   },
   {
-    "revision": "485d163a0abd973edcad",
+    "revision": "b2b80bde2c10fbba64d1",
     "url": "/embedded-web/static/css/2.9e2455ac.chunk.css"
   },
   {
-    "revision": "669bb15b56a464a4b18b",
+    "revision": "b51c4d6122ba255e40a6",
     "url": "/embedded-web/static/css/19.302ce602.chunk.css"
   },
   {
-    "revision": "aea0a5405a5adbf5078b",
+    "revision": "12465d207df24afee264",
     "url": "/embedded-web/static/css/18.8b25c0d9.chunk.css"
   },
   {
-    "revision": "df6140491aad590b943979f321226b2a",
+    "revision": "ce4f349973f6c7bfa9e315a6707fb25a",
     "url": "/embedded-web/redeem/index.html"
   },
   {
-    "revision": "2b678656a6ef1e834849130ee6b892eb",
+    "revision": "448cf3292a93e856b1005f8577f1ed53",
     "url": "/embedded-web/lark/index.html"
   },
   {
-    "revision": "23877e964884dda1349655c3a83ea092",
+    "revision": "2a4f1d1820744538cdc3309a6d8ec8fd",
     "url": "/embedded-web/account/index.html"
   }
 ];
