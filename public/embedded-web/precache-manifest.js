@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/freeonly@2x.6eedde27.png"
   },
   {
-    "revision": "a5e74a0ad5f566258a81",
+    "revision": "1700277116a0fe0c5ef9",
     "url": "/embedded-web/static/js/BindCreate.495bb1fb.chunk.js"
   },
   {
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/vip@2x.a20313c6.png"
   },
   {
-    "revision": "90b03056ef61eaf2a5fb",
+    "revision": "5a79deadcfd1b5ee08bf",
     "url": "/embedded-web/static/js/SmsHelper.ea7e66a7.chunk.js"
   },
   {
@@ -116,7 +116,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/nav-background.bfcaec23.png"
   },
   {
-    "revision": "8aff57df6b2a23752004",
+    "revision": "01779fcae409fe387156",
     "url": "/embedded-web/static/js/ForgetPassword.d2b5493f.chunk.js"
   },
   {
@@ -152,16 +152,16 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/18.1f932d56.chunk.js"
   },
   {
-    "revision": "c9e8363d16aab6078e975b8d098c6794",
-    "url": "/embedded-web/static/media/myyxbj@2x.c9e8363d.png"
+    "revision": "01d544733ca0f5df6649c32eb8834747",
+    "url": "/embedded-web/static/media/microlist@3x.01d54473.png"
   },
   {
     "revision": "df4469e0c33ec5f2064c",
     "url": "/embedded-web/static/js/19.002b69cc.chunk.js"
   },
   {
-    "revision": "01d544733ca0f5df6649c32eb8834747",
-    "url": "/embedded-web/static/media/microlist@3x.01d54473.png"
+    "revision": "c9e8363d16aab6078e975b8d098c6794",
+    "url": "/embedded-web/static/media/myyxbj@2x.c9e8363d.png"
   },
   {
     "revision": "4454cc152735a0205a4a",
@@ -176,8 +176,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/21.92b1f27b.chunk.js"
   },
   {
-    "revision": "371c5abe7c80241c4156",
-    "url": "/embedded-web/static/js/runtime~account.fd43515d.js"
+    "revision": "c866e6fa55d71b563ebe",
+    "url": "/embedded-web/static/js/runtime~account.ab448271.js"
   },
   {
     "revision": "51c34d78b14d91f09481",
@@ -216,8 +216,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/UpdateSuccess.3e186819.chunk.css"
   },
   {
-    "revision": "8aff57df6b2a23752004",
-    "url": "/embedded-web/static/css/ForgetPassword.0c360e09.chunk.css"
+    "revision": "01779fcae409fe387156",
+    "url": "/embedded-web/static/css/ForgetPassword.643d96d3.chunk.css"
   },
   {
     "revision": "7eb40bc0083dbb20209c",
@@ -228,8 +228,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/NewFeature.0b3f563a.chunk.css"
   },
   {
-    "revision": "90b03056ef61eaf2a5fb",
-    "url": "/embedded-web/static/css/SmsHelper.561b2d42.chunk.css"
+    "revision": "5a79deadcfd1b5ee08bf",
+    "url": "/embedded-web/static/css/SmsHelper.0a51b6f6.chunk.css"
   },
   {
     "revision": "23d9fa1fe4ef1ff1ea05",
@@ -240,8 +240,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/4.642548c4.chunk.css"
   },
   {
-    "revision": "a5e74a0ad5f566258a81",
-    "url": "/embedded-web/static/css/BindCreate.1a745557.chunk.css"
+    "revision": "1700277116a0fe0c5ef9",
+    "url": "/embedded-web/static/css/BindCreate.1a8e32fb.chunk.css"
   },
   {
     "revision": "79bd2d5e6a95b1a10927",
@@ -280,7 +280,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/lark/index.html"
   },
   {
-    "revision": "b286cd9b0df6a2bf70a09f3c82dc6f43",
+    "revision": "79f59ab84cfb9ff921a40d60424f24c5",
     "url": "/embedded-web/account/index.html"
   }
 ];
