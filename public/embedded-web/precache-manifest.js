@@ -152,8 +152,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/18.d1222f11.chunk.js"
   },
   {
-    "revision": "c9e8363d16aab6078e975b8d098c6794",
-    "url": "/embedded-web/static/media/myyxbj@2x.c9e8363d.png"
+    "revision": "301e5947d67ec03764de71fe70ef9e7d",
+    "url": "/embedded-web/static/media/evernote@2x.301e5947.png"
   },
   {
     "revision": "a7c0b3a11e59e8bd1d60",
@@ -168,8 +168,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/20.46b224a7.chunk.js"
   },
   {
-    "revision": "301e5947d67ec03764de71fe70ef9e7d",
-    "url": "/embedded-web/static/media/evernote@2x.301e5947.png"
+    "revision": "c9e8363d16aab6078e975b8d098c6794",
+    "url": "/embedded-web/static/media/myyxbj@2x.c9e8363d.png"
   },
   {
     "revision": "301ab206192a259b25af",
