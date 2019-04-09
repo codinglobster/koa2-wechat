@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "5109fd8a136ac821db21",
-    "url": "/embedded-web/static/js/ServiceList.3d8a11ea.chunk.js"
+    "revision": "9147d2773e854f315ce3",
+    "url": "/embedded-web/static/js/ServiceList.5fda7baf.chunk.js"
   },
   {
-    "revision": "517737f07dd31129ce67",
+    "revision": "3ec4fc010e3d14d3ceae",
     "url": "/embedded-web/static/css/vendor.d3808a87.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/activesuccess@3x.ac3fa113.png"
   },
   {
-    "revision": "849a17f13b40e1b1071d",
-    "url": "/embedded-web/static/js/common.aec9915e.chunk.js"
+    "revision": "6f71c817da2826dc869b",
+    "url": "/embedded-web/static/js/common.71fece08.chunk.js"
   },
   {
     "revision": "ce67cd694934e85a33b1807d11e2c198",
@@ -68,16 +68,16 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/freeonly@2x.6eedde27.png"
   },
   {
-    "revision": "1700277116a0fe0c5ef9",
-    "url": "/embedded-web/static/js/BindCreate.495bb1fb.chunk.js"
+    "revision": "ecd0fe95e8d61f0ab619",
+    "url": "/embedded-web/static/js/BindCreate.818dec31.chunk.js"
   },
   {
     "revision": "3d9b9b8b08eebbe77e1229322a40f0a3",
     "url": "/embedded-web/static/media/freeonly.3d9b9b8b.png"
   },
   {
-    "revision": "3fc1b75c7713a98f791a",
-    "url": "/embedded-web/static/js/BindExisted.062352c7.chunk.js"
+    "revision": "441533ded0f753a486f8",
+    "url": "/embedded-web/static/js/BindExisted.11bc21c1.chunk.js"
   },
   {
     "revision": "d769abb2461b653b01c853c3630dec30",
@@ -92,32 +92,32 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/vip@2x.a20313c6.png"
   },
   {
-    "revision": "5a79deadcfd1b5ee08bf",
-    "url": "/embedded-web/static/js/SmsHelper.ea7e66a7.chunk.js"
+    "revision": "852473fcb7f5dc43e6ae",
+    "url": "/embedded-web/static/js/SmsHelper.9a42a5cb.chunk.js"
   },
   {
     "revision": "35d4d8a4ce0259c437b796b592d3b63f",
     "url": "/embedded-web/static/media/vip.35d4d8a4.png"
   },
   {
-    "revision": "bd98fcda73f1137c2922",
-    "url": "/embedded-web/static/js/NewFeature.9b25ff4a.chunk.js"
+    "revision": "8284580745e2de779819",
+    "url": "/embedded-web/static/js/NewFeature.e1199da3.chunk.js"
   },
   {
     "revision": "16b2bf13a531139698e31dd7ff9f0cde",
     "url": "/embedded-web/static/media/avator.16b2bf13.png"
   },
   {
-    "revision": "7eb40bc0083dbb20209c",
-    "url": "/embedded-web/static/js/TwoFactorHelper.458017ad.chunk.js"
+    "revision": "6c6de7be0fb7151470b5",
+    "url": "/embedded-web/static/js/TwoFactorHelper.33c23703.chunk.js"
   },
   {
     "revision": "bfcaec2375c3fc9d96fa80a88c0ca2ad",
     "url": "/embedded-web/static/media/nav-background.bfcaec23.png"
   },
   {
-    "revision": "01779fcae409fe387156",
-    "url": "/embedded-web/static/js/ForgetPassword.d2b5493f.chunk.js"
+    "revision": "869214d5604e3fd6be13",
+    "url": "/embedded-web/static/js/ForgetPassword.5c28aa3a.chunk.js"
   },
   {
     "revision": "7ac2131b755a33b5d3b2546bf986c19c",
@@ -132,16 +132,16 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/bind-background@2x.b0862633.png"
   },
   {
-    "revision": "9ae4740e6cffc7de684c",
-    "url": "/embedded-web/static/js/AccountInfo.6db81d7f.chunk.js"
+    "revision": "c766bf9d95405529ab57",
+    "url": "/embedded-web/static/js/AccountInfo.936f84f4.chunk.js"
   },
   {
     "revision": "0b796ad0ef00c910b3841f9929e693e7",
     "url": "/embedded-web/static/media/myyxbj@3x.0b796ad0.png"
   },
   {
-    "revision": "517737f07dd31129ce67",
-    "url": "/embedded-web/static/js/vendor.b6571105.chunk.js"
+    "revision": "3ec4fc010e3d14d3ceae",
+    "url": "/embedded-web/static/js/vendor.f706a75c.chunk.js"
   },
   {
     "revision": "714f8171c55913f76148a287261527e4",
@@ -176,8 +176,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/21.92b1f27b.chunk.js"
   },
   {
-    "revision": "c866e6fa55d71b563ebe",
-    "url": "/embedded-web/static/js/runtime~account.ab448271.js"
+    "revision": "1210d9665737715e0817",
+    "url": "/embedded-web/static/js/runtime~account.4620f814.js"
   },
   {
     "revision": "51c34d78b14d91f09481",
@@ -188,7 +188,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/runtime~redeem.2615caa3.js"
   },
   {
-    "revision": "3fc1b75c7713a98f791a",
+    "revision": "441533ded0f753a486f8",
     "url": "/embedded-web/static/css/BindExisted.7198c8a8.chunk.css"
   },
   {
@@ -196,7 +196,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/21.7f9000c2.chunk.css"
   },
   {
-    "revision": "849a17f13b40e1b1071d",
+    "revision": "6f71c817da2826dc869b",
     "url": "/embedded-web/static/css/common.7741c22b.chunk.css"
   },
   {
@@ -204,11 +204,11 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/3.77dcfe7d.chunk.css"
   },
   {
-    "revision": "5109fd8a136ac821db21",
+    "revision": "9147d2773e854f315ce3",
     "url": "/embedded-web/static/css/ServiceList.65ce9118.chunk.css"
   },
   {
-    "revision": "9ae4740e6cffc7de684c",
+    "revision": "c766bf9d95405529ab57",
     "url": "/embedded-web/static/css/AccountInfo.64741ea2.chunk.css"
   },
   {
@@ -216,19 +216,19 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/UpdateSuccess.3e186819.chunk.css"
   },
   {
-    "revision": "01779fcae409fe387156",
+    "revision": "869214d5604e3fd6be13",
     "url": "/embedded-web/static/css/ForgetPassword.643d96d3.chunk.css"
   },
   {
-    "revision": "7eb40bc0083dbb20209c",
+    "revision": "6c6de7be0fb7151470b5",
     "url": "/embedded-web/static/css/TwoFactorHelper.9acf8e36.chunk.css"
   },
   {
-    "revision": "bd98fcda73f1137c2922",
+    "revision": "8284580745e2de779819",
     "url": "/embedded-web/static/css/NewFeature.0b3f563a.chunk.css"
   },
   {
-    "revision": "5a79deadcfd1b5ee08bf",
+    "revision": "852473fcb7f5dc43e6ae",
     "url": "/embedded-web/static/css/SmsHelper.0a51b6f6.chunk.css"
   },
   {
@@ -240,7 +240,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/4.642548c4.chunk.css"
   },
   {
-    "revision": "1700277116a0fe0c5ef9",
+    "revision": "ecd0fe95e8d61f0ab619",
     "url": "/embedded-web/static/css/BindCreate.1a8e32fb.chunk.css"
   },
   {
@@ -272,15 +272,15 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/18.8b25c0d9.chunk.css"
   },
   {
-    "revision": "660b27d139b1c14818b742b94f579e1b",
+    "revision": "f9bb9b48d200814df6fc3938c83ffe77",
     "url": "/embedded-web/redeem/index.html"
   },
   {
-    "revision": "a3fedf4fcb91f85cfc88591b55f2e4f2",
+    "revision": "d955510d77cb12c4ce14f237b912924a",
     "url": "/embedded-web/lark/index.html"
   },
   {
-    "revision": "79f59ab84cfb9ff921a40d60424f24c5",
+    "revision": "2439d9f7db659bf9e53e8177e5dc8ee1",
     "url": "/embedded-web/account/index.html"
   }
 ];
