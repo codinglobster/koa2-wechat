@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/freeonly@2x.6eedde27.png"
   },
   {
-    "revision": "9d766e7f0eaf96339141",
-    "url": "/embedded-web/static/js/BindCreate.492bbbc6.chunk.js"
+    "revision": "dce58b966005d77271fd",
+    "url": "/embedded-web/static/js/BindCreate.7aa4951d.chunk.js"
   },
   {
     "revision": "3d9b9b8b08eebbe77e1229322a40f0a3",
@@ -176,8 +176,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/21.be376fb6.chunk.js"
   },
   {
-    "revision": "165b3def89e047b8d5fd",
-    "url": "/embedded-web/static/js/runtime~account.2b786316.js"
+    "revision": "79cb62b3229bfdf59aa0",
+    "url": "/embedded-web/static/js/runtime~account.9131b834.js"
   },
   {
     "revision": "616740c1869ba03fd9ad",
@@ -240,7 +240,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/4.73536cb4.chunk.css"
   },
   {
-    "revision": "9d766e7f0eaf96339141",
+    "revision": "dce58b966005d77271fd",
     "url": "/embedded-web/static/css/BindCreate.94c6e30e.chunk.css"
   },
   {
@@ -280,7 +280,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/lark/index.html"
   },
   {
-    "revision": "df03a7c7c4b5ddf6ecd965a1d5b22f91",
+    "revision": "1d21dda50af7250d0a1e1ffb7b766f6f",
     "url": "/embedded-web/account/index.html"
   }
 ];
