@@ -17,7 +17,7 @@ const app = new Koa()
 
 app
   .use(logger())
-  .use(enforceHttps())
+  .use(enforceHttps.default())
   .use(static(path.join( __dirname, './public')))
   .use(async(ctx, next) => {    
     if (ctx.url.startsWith('/grpc')) { //匹配有api字段的请求url       
