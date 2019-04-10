@@ -17,8 +17,8 @@ const app = new Koa()
 
 app
   .use(logger())
-  .use(enforceHttps.default())
   .use(static(path.join( __dirname, './public')))
+  .use(enforceHttps.default())
   .use(async(ctx, next) => {    
     if (ctx.url.startsWith('/grpc')) { //匹配有api字段的请求url       
       ctx.respond = false // 绕过koa内置对象response ，写入原始res对象，而不是koa处理过的response        
@@ -42,8 +42,9 @@ app
   })
   .use(xmlParse())
   .use(router.routes())
-  .use(router.allowedMethods())
-  httpsOption = { 
+  .use(router.allowedMethods());
+
+  const httpsOption = { 
     key: fs.readFileSync("./https/2039566_codinglobster.cn.key"),
     cert: fs.readFileSync("./https/2039566_codinglobster.cn.pem"),
   }
