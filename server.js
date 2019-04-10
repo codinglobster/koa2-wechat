@@ -1,5 +1,8 @@
 const Koa = require('koa');
+const fs = require("fs");
 const path = require('path');
+var http = require('http');
+var https = require('https');
 const static = require('koa-static');
 const config = require('./src/config')
 const logger = require('./src/middleware/logger')
@@ -7,11 +10,14 @@ const xmlParse = require('./src/middleware/xmlParse')
 const router = require('./src/router')
 const httpProxy = require('http-proxy-middleware');
 const k2c = require('koa2-connect');
+const enforceHttps = require('koa-sslify');
 
 const app = new Koa()
 
+
 app
   .use(logger())
+  .use(enforceHttps())
   .use(static(path.join( __dirname, './public')))
   .use(async(ctx, next) => {    
     if (ctx.url.startsWith('/grpc')) { //匹配有api字段的请求url       
@@ -37,6 +43,12 @@ app
   .use(xmlParse())
   .use(router.routes())
   .use(router.allowedMethods())
+  httpsOption = { 
+    key: fs.readFileSync("./https/2039566_codinglobster.cn.key"),
+    cert: fs.readFileSync("./https/2039566_codinglobster.cn.pem"),
+  }
 
-app.listen(config.port)
+
+http.createServer(app.callback()).listen(80);
+https.createServer(httpsOption, app.callback()).listen(443);
 console.log('server start at port:', config.port)
