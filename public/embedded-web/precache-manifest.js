@@ -68,24 +68,24 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/freeonly@2x.6eedde27.png"
   },
   {
-    "revision": "20340fdb22fe6e371a52",
-    "url": "/embedded-web/static/js/BindCreate.d18f95e6.chunk.js"
+    "revision": "4b85c76254c45a046812",
+    "url": "/embedded-web/static/js/BindCreate.338637cf.chunk.js"
   },
   {
     "revision": "3d9b9b8b08eebbe77e1229322a40f0a3",
     "url": "/embedded-web/static/media/freeonly.3d9b9b8b.png"
   },
   {
-    "revision": "2d0f3c9d3b544bc895e8",
-    "url": "/embedded-web/static/js/BindExisted.e54e480a.chunk.js"
+    "revision": "5212adc8ea31135b3eac",
+    "url": "/embedded-web/static/js/BindExisted.c1e6e7e8.chunk.js"
   },
   {
     "revision": "d769abb2461b653b01c853c3630dec30",
     "url": "/embedded-web/static/media/vip@3x.d769abb2.png"
   },
   {
-    "revision": "4488d7ae22e6433959e7",
-    "url": "/embedded-web/static/js/TwoFactorVerification.164bce04.chunk.js"
+    "revision": "ad376ca43166a09e32a8",
+    "url": "/embedded-web/static/js/TwoFactorVerification.17892574.chunk.js"
   },
   {
     "revision": "a20313c6d4458b2c7d565ee283d6d8af",
@@ -176,8 +176,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/21.32e8df6f.chunk.js"
   },
   {
-    "revision": "5a0ac45ab1a596ce6584",
-    "url": "/embedded-web/static/js/runtime~account.ae2da4e9.js"
+    "revision": "6397be970fe063c40740",
+    "url": "/embedded-web/static/js/runtime~account.b5ba117b.js"
   },
   {
     "revision": "b824d42f7d2e4ed15ee6",
@@ -188,7 +188,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/runtime~redeem.4376cdc4.js"
   },
   {
-    "revision": "2d0f3c9d3b544bc895e8",
+    "revision": "5212adc8ea31135b3eac",
     "url": "/embedded-web/static/css/BindExisted.a2ef986e.chunk.css"
   },
   {
@@ -232,7 +232,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/SmsHelper.a13367ce.chunk.css"
   },
   {
-    "revision": "4488d7ae22e6433959e7",
+    "revision": "ad376ca43166a09e32a8",
     "url": "/embedded-web/static/css/TwoFactorVerification.44253d24.chunk.css"
   },
   {
@@ -240,7 +240,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/4.73536cb4.chunk.css"
   },
   {
-    "revision": "20340fdb22fe6e371a52",
+    "revision": "4b85c76254c45a046812",
     "url": "/embedded-web/static/css/BindCreate.94c6e30e.chunk.css"
   },
   {
@@ -280,7 +280,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/lark/index.html"
   },
   {
-    "revision": "7757f0a53d4bb292c12120fd5fa621b8",
+    "revision": "c175f6ae4d20d9a1192de18d7a567204",
     "url": "/embedded-web/account/index.html"
   }
 ];
