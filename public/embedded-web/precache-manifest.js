@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/freeonly@2x.6eedde27.png"
   },
   {
-    "revision": "d2f3e14b144b0874563e",
-    "url": "/embedded-web/static/js/BindCreate.bc9f7b6a.chunk.js"
+    "revision": "b1bf6df8463ed5f6c277",
+    "url": "/embedded-web/static/js/BindCreate.647de8e7.chunk.js"
   },
   {
     "revision": "3d9b9b8b08eebbe77e1229322a40f0a3",
@@ -136,24 +136,24 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/AccountInfo.26788239.chunk.js"
   },
   {
-    "revision": "0b796ad0ef00c910b3841f9929e693e7",
-    "url": "/embedded-web/static/media/myyxbj@3x.0b796ad0.png"
+    "revision": "714f8171c55913f76148a287261527e4",
+    "url": "/embedded-web/static/media/evernote@3x.714f8171.png"
   },
   {
     "revision": "41348ae63bdff951f49a",
     "url": "/embedded-web/static/js/vendor.80532460.chunk.js"
   },
   {
-    "revision": "714f8171c55913f76148a287261527e4",
-    "url": "/embedded-web/static/media/evernote@3x.714f8171.png"
+    "revision": "0b796ad0ef00c910b3841f9929e693e7",
+    "url": "/embedded-web/static/media/myyxbj@3x.0b796ad0.png"
   },
   {
     "revision": "ac314e574d42f422b945",
     "url": "/embedded-web/static/js/18.d1222f11.chunk.js"
   },
   {
-    "revision": "301e5947d67ec03764de71fe70ef9e7d",
-    "url": "/embedded-web/static/media/evernote@2x.301e5947.png"
+    "revision": "c9e8363d16aab6078e975b8d098c6794",
+    "url": "/embedded-web/static/media/myyxbj@2x.c9e8363d.png"
   },
   {
     "revision": "a7c0b3a11e59e8bd1d60",
@@ -168,16 +168,16 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/20.46b224a7.chunk.js"
   },
   {
-    "revision": "c9e8363d16aab6078e975b8d098c6794",
-    "url": "/embedded-web/static/media/myyxbj@2x.c9e8363d.png"
+    "revision": "301e5947d67ec03764de71fe70ef9e7d",
+    "url": "/embedded-web/static/media/evernote@2x.301e5947.png"
   },
   {
     "revision": "301ab206192a259b25af",
     "url": "/embedded-web/static/js/21.32e8df6f.chunk.js"
   },
   {
-    "revision": "a06f2daf821e029775da",
-    "url": "/embedded-web/static/js/runtime~account.2003573a.js"
+    "revision": "124e4e44f9f6d1dd1c85",
+    "url": "/embedded-web/static/js/runtime~account.07664524.js"
   },
   {
     "revision": "b824d42f7d2e4ed15ee6",
@@ -240,7 +240,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/4.73536cb4.chunk.css"
   },
   {
-    "revision": "d2f3e14b144b0874563e",
+    "revision": "b1bf6df8463ed5f6c277",
     "url": "/embedded-web/static/css/BindCreate.94c6e30e.chunk.css"
   },
   {
@@ -280,7 +280,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/lark/index.html"
   },
   {
-    "revision": "8636baa6b4627fc379b2aca1f90abe6c",
+    "revision": "1f2be9d780c72cfca6b97bc14a4f671b",
     "url": "/embedded-web/account/index.html"
   }
 ];
