@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/ServiceList.e8e61826.chunk.js"
   },
   {
-    "revision": "78b32016335a1bd39e60",
+    "revision": "5c2d1b48e7a916217fd2",
     "url": "/embedded-web/static/css/vendor.d28c57e5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/activesuccess@3x.ac3fa113.png"
   },
   {
-    "revision": "eb904595b85699d491a8",
-    "url": "/embedded-web/static/js/common.b7baacb1.chunk.js"
+    "revision": "5375d749ed245ef538ed",
+    "url": "/embedded-web/static/js/common.f3eb040c.chunk.js"
   },
   {
     "revision": "ce67cd694934e85a33b1807d11e2c198",
@@ -36,56 +36,56 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/yxpoint@3x.d03ac677.png"
   },
   {
-    "revision": "822c862f0f15c836f7e4",
-    "url": "/embedded-web/static/js/4.8d9d75b8.chunk.js"
+    "revision": "94deb09ed95fdb80152c",
+    "url": "/embedded-web/static/js/4.d59d3322.chunk.js"
   },
   {
     "revision": "d494de526351464a784f546017757ab1",
     "url": "/embedded-web/static/media/yxpoint@2x.d494de52.png"
   },
   {
-    "revision": "5dab60dab37e0f2d1f10",
-    "url": "/embedded-web/static/js/account.e4439d13.chunk.js"
+    "revision": "9a3e8ba186df212ec44a",
+    "url": "/embedded-web/static/js/account.a0d3443d.chunk.js"
   },
   {
     "revision": "c89bd4745c58b41146129ac113eb54f8",
     "url": "/embedded-web/static/media/yxpoint.c89bd474.png"
   },
   {
-    "revision": "6b7c57dec22f5700248c",
-    "url": "/embedded-web/static/js/lark.148361fe.chunk.js"
+    "revision": "4d7b32d3647e838dd671",
+    "url": "/embedded-web/static/js/lark.8dfb3edb.chunk.js"
   },
   {
     "revision": "24481e619347ce2b9276f0f841ac7657",
     "url": "/embedded-web/static/media/freeonly@3x.24481e61.png"
   },
   {
-    "revision": "a3bfadd5734870be2e25",
-    "url": "/embedded-web/static/js/redeem.251fcd35.chunk.js"
+    "revision": "b94f305000ef50e01ebb",
+    "url": "/embedded-web/static/js/redeem.c77c92fc.chunk.js"
   },
   {
     "revision": "6eedde271aff8754c20e7e74a9403b15",
     "url": "/embedded-web/static/media/freeonly@2x.6eedde27.png"
   },
   {
-    "revision": "963ab78c6060bb865222",
-    "url": "/embedded-web/static/js/BindCreate.a9fca5eb.chunk.js"
+    "revision": "12da4dd3399d215873ad",
+    "url": "/embedded-web/static/js/BindCreate.80e497af.chunk.js"
   },
   {
     "revision": "3d9b9b8b08eebbe77e1229322a40f0a3",
     "url": "/embedded-web/static/media/freeonly.3d9b9b8b.png"
   },
   {
-    "revision": "499fae9b02a97b23e545",
-    "url": "/embedded-web/static/js/BindExisted.9f7c8e70.chunk.js"
+    "revision": "c2c08f8b145016db78ed",
+    "url": "/embedded-web/static/js/BindExisted.161e4367.chunk.js"
   },
   {
     "revision": "d769abb2461b653b01c853c3630dec30",
     "url": "/embedded-web/static/media/vip@3x.d769abb2.png"
   },
   {
-    "revision": "e44847d8189f509f56ce",
-    "url": "/embedded-web/static/js/TwoFactorVerification.12cdee53.chunk.js"
+    "revision": "93cf5f0ae41bc0b3a4f1",
+    "url": "/embedded-web/static/js/TwoFactorVerification.4bef156a.chunk.js"
   },
   {
     "revision": "a20313c6d4458b2c7d565ee283d6d8af",
@@ -116,8 +116,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/nav-background.bfcaec23.png"
   },
   {
-    "revision": "fe0fa36f4630f6d40f7b",
-    "url": "/embedded-web/static/js/ForgetPassword.cb23b686.chunk.js"
+    "revision": "ec300941e2f52a10edd5",
+    "url": "/embedded-web/static/js/ForgetPassword.82f1544e.chunk.js"
   },
   {
     "revision": "7ac2131b755a33b5d3b2546bf986c19c",
@@ -140,8 +140,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/myyxbj@3x.0b796ad0.png"
   },
   {
-    "revision": "78b32016335a1bd39e60",
-    "url": "/embedded-web/static/js/vendor.6f8ec58d.chunk.js"
+    "revision": "5c2d1b48e7a916217fd2",
+    "url": "/embedded-web/static/js/vendor.84dbdaaf.chunk.js"
   },
   {
     "revision": "714f8171c55913f76148a287261527e4",
@@ -152,16 +152,16 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/18.f1845187.chunk.js"
   },
   {
-    "revision": "c9e8363d16aab6078e975b8d098c6794",
-    "url": "/embedded-web/static/media/myyxbj@2x.c9e8363d.png"
+    "revision": "01d544733ca0f5df6649c32eb8834747",
+    "url": "/embedded-web/static/media/microlist@3x.01d54473.png"
   },
   {
     "revision": "fa60ab9a5fe46f4f5595",
     "url": "/embedded-web/static/js/19.e93b63f5.chunk.js"
   },
   {
-    "revision": "01d544733ca0f5df6649c32eb8834747",
-    "url": "/embedded-web/static/media/microlist@3x.01d54473.png"
+    "revision": "c9e8363d16aab6078e975b8d098c6794",
+    "url": "/embedded-web/static/media/myyxbj@2x.c9e8363d.png"
   },
   {
     "revision": "f2f594e17243ad10e209",
@@ -176,8 +176,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/21.38197717.chunk.js"
   },
   {
-    "revision": "8920488fbbf10168e80c",
-    "url": "/embedded-web/static/js/runtime~account.de3a6dca.js"
+    "revision": "31f943368f9461471ad5",
+    "url": "/embedded-web/static/js/runtime~account.62958a5f.js"
   },
   {
     "revision": "509d9597af28c38d4f50",
@@ -188,7 +188,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/runtime~redeem.a20d86e2.js"
   },
   {
-    "revision": "499fae9b02a97b23e545",
+    "revision": "c2c08f8b145016db78ed",
     "url": "/embedded-web/static/css/BindExisted.a2ef986e.chunk.css"
   },
   {
@@ -196,7 +196,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/21.a7ec66c0.chunk.css"
   },
   {
-    "revision": "eb904595b85699d491a8",
+    "revision": "5375d749ed245ef538ed",
     "url": "/embedded-web/static/css/common.64622269.chunk.css"
   },
   {
@@ -216,7 +216,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/UpdateSuccess.f5d16578.chunk.css"
   },
   {
-    "revision": "fe0fa36f4630f6d40f7b",
+    "revision": "ec300941e2f52a10edd5",
     "url": "/embedded-web/static/css/ForgetPassword.7c1b45de.chunk.css"
   },
   {
@@ -232,28 +232,28 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/SmsHelper.a13367ce.chunk.css"
   },
   {
-    "revision": "e44847d8189f509f56ce",
+    "revision": "93cf5f0ae41bc0b3a4f1",
     "url": "/embedded-web/static/css/TwoFactorVerification.44253d24.chunk.css"
   },
   {
-    "revision": "822c862f0f15c836f7e4",
+    "revision": "94deb09ed95fdb80152c",
     "url": "/embedded-web/static/css/4.73536cb4.chunk.css"
   },
   {
-    "revision": "963ab78c6060bb865222",
+    "revision": "12da4dd3399d215873ad",
     "url": "/embedded-web/static/css/BindCreate.94c6e30e.chunk.css"
   },
   {
-    "revision": "a3bfadd5734870be2e25",
+    "revision": "b94f305000ef50e01ebb",
     "url": "/embedded-web/static/css/redeem.e23a82fe.chunk.css"
   },
   {
-    "revision": "6b7c57dec22f5700248c",
+    "revision": "4d7b32d3647e838dd671",
     "url": "/embedded-web/static/css/lark.99c5dee2.chunk.css"
   },
   {
-    "revision": "5dab60dab37e0f2d1f10",
-    "url": "/embedded-web/static/css/account.2a5fe492.chunk.css"
+    "revision": "9a3e8ba186df212ec44a",
+    "url": "/embedded-web/static/css/account.35538b2f.chunk.css"
   },
   {
     "revision": "f2f594e17243ad10e209",
@@ -272,15 +272,15 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/18.90bdea7f.chunk.css"
   },
   {
-    "revision": "60ac7c541e38c9ab682d1cd65468a18b",
+    "revision": "f5a019cc1a80ea68766e98f09b7ec6a4",
     "url": "/embedded-web/redeem/index.html"
   },
   {
-    "revision": "fe47e8d57ca2fba35abccb741b219b4b",
+    "revision": "17c8e1e2612ae07d373d95fd66b6a07b",
     "url": "/embedded-web/lark/index.html"
   },
   {
-    "revision": "beade815450ed36c04575f3832b69cd7",
+    "revision": "4fc4d0dca1b65078a585a65bb468bb2c",
     "url": "/embedded-web/account/index.html"
   }
 ];
