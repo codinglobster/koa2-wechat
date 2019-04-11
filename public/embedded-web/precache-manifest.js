@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/media/yxpoint@2x.d494de52.png"
   },
   {
-    "revision": "9a3e8ba186df212ec44a",
-    "url": "/embedded-web/static/js/account.a0d3443d.chunk.js"
+    "revision": "9ada58616a1adf4fa087",
+    "url": "/embedded-web/static/js/account.9b8f5460.chunk.js"
   },
   {
     "revision": "c89bd4745c58b41146129ac113eb54f8",
@@ -136,16 +136,16 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/js/AccountInfo.a08737cd.chunk.js"
   },
   {
-    "revision": "0b796ad0ef00c910b3841f9929e693e7",
-    "url": "/embedded-web/static/media/myyxbj@3x.0b796ad0.png"
+    "revision": "714f8171c55913f76148a287261527e4",
+    "url": "/embedded-web/static/media/evernote@3x.714f8171.png"
   },
   {
     "revision": "5c2d1b48e7a916217fd2",
     "url": "/embedded-web/static/js/vendor.84dbdaaf.chunk.js"
   },
   {
-    "revision": "714f8171c55913f76148a287261527e4",
-    "url": "/embedded-web/static/media/evernote@3x.714f8171.png"
+    "revision": "0b796ad0ef00c910b3841f9929e693e7",
+    "url": "/embedded-web/static/media/myyxbj@3x.0b796ad0.png"
   },
   {
     "revision": "ab906ec15485e3ad39da",
@@ -252,7 +252,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/static/css/lark.99c5dee2.chunk.css"
   },
   {
-    "revision": "9a3e8ba186df212ec44a",
+    "revision": "9ada58616a1adf4fa087",
     "url": "/embedded-web/static/css/account.35538b2f.chunk.css"
   },
   {
@@ -280,7 +280,7 @@ self.__precacheManifest = [
     "url": "/embedded-web/lark/index.html"
   },
   {
-    "revision": "4fc4d0dca1b65078a585a65bb468bb2c",
+    "revision": "8c07a1ea048aca33b57e93ebf102f24e",
     "url": "/embedded-web/account/index.html"
   }
 ];
