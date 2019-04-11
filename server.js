@@ -45,8 +45,8 @@ app
   .use(router.allowedMethods());
 
   const httpsOption = { 
-    key: fs.readFileSync("./https/2039566_codinglobster.cn.key"),
-    cert: fs.readFileSync("./https/2039566_codinglobster.cn.pem"),
+    key: fs.readFileSync(path.join( __dirname,"./https/2039566_codinglobster.cn.key")),
+    cert: fs.readFileSync(path.join( __dirname,"./https/2039566_codinglobster.cn.pem")),
   }
 
 
